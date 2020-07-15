@@ -1,4 +1,9 @@
-### Hi there 👋
+# Túlio Camargo
+
+Dev. FullStack JavaScript
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/CAzTuliao)](https://twitter.com/CAzTuliao) 
 
 <!--
 **TulioCaz/TulioCaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
