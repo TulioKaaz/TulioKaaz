@@ -1,6 +1,6 @@
-# Túlio ( Kaaz ) Camargo de Azevedo -- Pessoa Estudante da Trybe
+# Túlio ( Kaaz ) Camargo de Azevedo 
 
-Dev. FullStack JavaScript
+Dev. FullStack JavaScript -- Pessoa Estudante da Trybe --
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@CAzTuliao-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/CAzTuliao)](https://twitter.com/CAzTuliao) 
