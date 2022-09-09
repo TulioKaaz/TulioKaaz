@@ -1,4 +1,4 @@
-# Túlio Camargo
+# Túlio ( Kaaz ) Camargo de Azevedo -- Pessoa Estudante da Trybe
 
 Dev. FullStack JavaScript
 
