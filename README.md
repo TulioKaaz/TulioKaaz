@@ -22,10 +22,7 @@ Eu sou o Kaaz, um estudante de programação pela escola Trybe. Sou apaixonado p
 
 ## Tecnologias favoritas ❤️
 
-<img alt="Git" src="./images/git.svg" width=50>
-<img alt="Bash" src="./images/bash-logo.jpg" width=50>
-<img alt="Linux" src="./images/linux.png" width=50>
-<img alt="Docker" src="./images/docker.png" width=50>
+<img alt="Git" src="./images/git.svg" width=50><img alt="Bash" src="./images/bash-logo.jpg" width=50><img alt="Linux" src="./images/linux.png" width=50><img alt="Docker" src="./images/docker.png" width=50>
 <img alt="Typescript" src="./images/typescript.svg" width=50>
 <img alt="HTML" src="./images/html5.svg" width=50>
 <img alt="CSS" src="./images/css3.svg" width=50>
