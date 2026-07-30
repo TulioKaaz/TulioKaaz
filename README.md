@@ -1,43 +1,41 @@
-# Hello Everyone 😁
+# Olá, eu sou o Túlio 👋
 
-Eu sou o Kaaz, um estudante de programação pela escola Trybe. Sou apaixonado por tecnologia e dedico-me diariamente a mergulhar no mundo da programação, buscando constantemente meu desenvolvimento e capacitação para entregar valor às pessoas. Tenho um imenso prazer em ajudar os outros a crescerem e se desenvolverem. Se estiver interessado em bater um papo, não hesite em entrar em contato comigo pelo LinkedIn ou Twitter. Estou sempre disponível para trocar ideias e conhecimentos.
+Desenvolvedor migrando para **análise de dados e finanças**. Estudante de **Ciências Econômicas (ênfase em Finanças)** na PUCRS, uso o que aprendi como dev para transformar dado em decisão.
 
-[![Twitter Badge](https://img.shields.io/badge/-@KaazTuliao-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/KaazTuliao)](https://twitter.com/KaazTuliao)
-[![Linkedin Badge](https://img.shields.io/badge/-Tulio%20Camargo-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tulio-kaaz/)](https://www.linkedin.com/in/tulio-kaaz/) 
-[![Gmail Badge](https://img.shields.io/badge/-tuliocaz.windcoast@gmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliocaz.windcoast@gmail.com)](mailto:tuliocaz.windcoast@gmail.com)
+Vim da programação (formado pela Trybe, já atuei com back-end e front-end) e hoje aplico código a problemas de economia e mercado: coleta de indicadores, análise estatística e visualização.
 
-## Minhas paixões na vida:
+## 🎯 No que estou focando agora
 
-- ⛵ Sou apaixonado por esportes à vela. Sempre que tenho um tempo livre e o vento está soprando, reúno-me com meus amigos e vou velejar de kitesurf em alguma lagoa próxima.
+- Estágio ou primeira posição em **análise de dados / finanças**
+- Projetos práticos com dados econômicos brasileiros (Banco Central, IPCA, câmbio)
+- Estatística aplicada: correlação, dependência e seleção de variáveis
+- Estudos de mercado financeiro e investimentos
 
-- 🏃🏻 Quando não há vento, gosto de praticar corrida ou fazer caminhadas em meio à natureza, desconectando um pouco das telas e focando no momento presente.
+## 🛠️ Stack
 
-- 🎮 Sou um entusiasta de videogames, principalmente jogos de estratégia, puzzles lógicos e jogos indie em geral.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-- 👨🏻‍💻 No momento, meu foco principal é o desenvolvimento backend. À medida que me aprofundo, fico maravilhado e entusiasmado com as possibilidades. Trabalho principalmente com **Node.js** e seu framework mais famoso, o **Express**. Meu objetivo principal é aplicar e aprofundar meus conhecimentos em arquiteturas como **SOLID** e **DDD**.
+- **Dados e análise:** Python (pandas), SQL, Excel avançado, Power BI, consumo de APIs
+- **Programação:** TypeScript, JavaScript, Rust, R, Git
+- **Domínios:** economia (micro, macro e investimentos), contabilidade, precificação
 
-- 💻 No desenvolvimento frontend, costumo utilizar o ecossistema do **React**. Gosto especialmente de criar aplicações com componentes bem estruturados e tenho grande prazer em escrever testes.
-  
-<br />
+## 📊 Projetos em destaque
 
-## Tecnologias favoritas ❤️
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Indicadores Macro Brasil](https://github.com/TulioKaaz/indicadores-macro-brasil) | Coleta via API do Banco Central, tratamento e visualização de IPCA e câmbio, com leitura econômica dos resultados. | Python, pandas |
+| [Correlação vs. Informação Mútua](https://github.com/TulioKaaz/correlation-vs-mutual-information) | Comparação entre Pearson, Spearman e Informação Mútua para detectar relações que a correlação linear não captura. | Python |
 
-<img alt="Git" src="./images/git.svg" width=50><img alt="Bash" src="./images/bash-logo.jpg" width=50><img alt="Linux" src="./images/linux.png" width=50><img alt="Docker" src="./images/docker.png" width=50>
-<img alt="Typescript" src="./images/typescript.svg" width=50>
-<img alt="HTML" src="./images/html5.svg" width=50>
-<img alt="CSS" src="./images/css3.svg" width=50>
-<img alt="Next" src="./images/next.jpeg" width=50>
-<img alt="React" src="./images/react.png" width=50>
-<img alt="NodeJS" src="./images/nodejs.png" width=50>
-<img alt="Express" src="./images/express.png" width=50>
-<img alt="Jest" src="./images/jest.webp" width=50>
-<img alt="Mocha" src="./images/mocha.png" width=50>
-<img alt="Sequelize" src="./images/sequelize.com.png" width=50>
-<img alt="PostgreSQL" src="./images/postgres.png" width=50>
-<img alt="MongoDB" src="./images/mongo.svg" width=50>
+Além desses, mantenho projetos educacionais publicados aqui no GitHub desde 2020.
 
-<br />
+## 📫 Vamos conversar
 
-## Github Stats
-
-![TulioKaaz GitHub stats](https://github-readme-stats.vercel.app/api?username=TulioKaaz&show_icons=true&theme=tokyonight)
+- LinkedIn: [linkedin.com/in/tulio-kaaz](https://www.linkedin.com/in/tulio-kaaz/)
+- E-mail: tuliocaz.dev@gmail.com
