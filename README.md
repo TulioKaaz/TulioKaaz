@@ -2,14 +2,14 @@
 
 Desenvolvedor migrando para **análise de dados e finanças**. Estudante de **Ciências Econômicas (ênfase em Finanças)** na PUCRS, uso o que aprendi como dev para transformar dado em decisão.
 
-Vim da programação (formado pela Trybe, já atuei com back-end e front-end) e hoje aplico código a problemas de economia e mercado: coleta de indicadores, análise estatística e visualização.
+Vim da programação (formado pela Trybe, já atuei com back-end e front-end) e hoje aplico código a problemas de economia e mercado: coleta de indicadores, análise de fundos de investimento, estatística e visualização. Do lado de finanças, fui diretor financeiro da Legacy PUCRS Júnior (2025–2026), onde reestruturei o setor e montei o controle de fluxo de caixa, DRE e contas a pagar e a receber.
 
 ## 🎯 No que estou focando agora
 
 - Estágio ou primeira posição em **análise de dados / finanças**
-- Projetos práticos com dados econômicos brasileiros (Banco Central, IPCA, câmbio)
-- Estatística aplicada: correlação, dependência e seleção de variáveis
-- Estudos de mercado financeiro e investimentos
+- Análise de fundos de investimento com dados públicos (CVM e Banco Central)
+- Projetos práticos com dados econômicos brasileiros (IPCA, câmbio, Selic)
+- Estatística aplicada: correlação, dependência e importância de variáveis
 
 ## 🛠️ Stack
 
@@ -30,10 +30,10 @@ Vim da programação (formado pela Trybe, já atuei com back-end e front-end) e 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Indicadores Macro Brasil](https://github.com/TulioKaaz/indicadores-macro-brasil) | Coleta via API do Banco Central, tratamento e visualização de IPCA e câmbio, com leitura econômica dos resultados. | Python, pandas |
+| [Análise do SPX Raptor](https://github.com/TulioKaaz/spx-raptor-analysis) | Pipeline modular que coleta 16 anos de dados da CVM e do Banco Central, valida os dados antes de calcular e analisa retorno real, risco e o papel de um fundo multimercado na carteira. Os números batem com os publicados pela gestora. | Python, pandas, Parquet |
+| [Indicadores Macro Brasil](https://github.com/TulioKaaz/indicadores-macro-brasil) | Coleta via API do Banco Central, tratamento e visualização de IPCA, câmbio e Selic, com leitura econômica dos resultados. | Python, pandas |
 | [Correlação vs. Informação Mútua](https://github.com/TulioKaaz/correlation-vs-mutual-information) | Comparação entre Pearson, Spearman e Informação Mútua para detectar relações que a correlação linear não captura. | Python |
-
-Além desses, mantenho projetos educacionais publicados aqui no GitHub desde 2020.
+| [Importância de variáveis em árvores](https://github.com/TulioKaaz/feature-importance-arvores) | Comparação de métodos de importância de variáveis em modelos de árvore: MDI, permutation importance, XGBoost e SHAP. | Python |
 
 ## 📫 Vamos conversar
 
